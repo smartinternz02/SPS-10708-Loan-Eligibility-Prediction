@@ -20,12 +20,14 @@ REQUIREMENTS:
 
 
 APPLICATIONS:
+
 ● Applicable to find whether a customer of bank can get loan or not based on
 details of the Applicant.
 ● Helpful to bank for validating whether the applicant will repay the amount .
 
 
 CONCLUSION:
+
 ● Goal of this project is to automate the loan eligibility process (real time) based on
 customer detail provided while filling online application form.
 ● The main aim of this use-case is to build a predictive model to predict if an applicant is able to
